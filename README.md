@@ -13,20 +13,24 @@ VGG19 is a variant of the VGG model which in short consists of 19 layers (16 con
 
 Now we have use transfer learning with the help of VGG-19 architecture and use it to classify the CIFAR-10 Dataset.
 
-## DESIGN STEPS
+## DESIGN STEPS:
 ### STEP 1:
-</br>
+Import tensorflow and preprocessing libraries
 
 ### STEP 2:
-</br>
+Load CIFAR-10 Dataset & use Image Data Generator to increse the size of dataset
 
 ### STEP 3:
+Import the VGG-19 as base model & add Dense layers to it
 
-Write your own steps
-<br/>
+### STEP 4:
+Compile and fit the model
 
-## PROGRAM
-Include your code here
+### Step 5:
+Predict for custom inputs using this model.
+
+
+## PROGRAM:
 ```python
 
 
@@ -39,7 +43,7 @@ Include your code here
 ```
 
 
-## OUTPUT
+## OUTPUT:
 ### Training Loss, Validation Loss Vs Iteration Plot
 Include your plot here
 </br>
