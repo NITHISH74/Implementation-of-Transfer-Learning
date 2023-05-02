@@ -109,22 +109,16 @@ print(classification_report(y_test,x_test_predictions))
 
 
 ## OUTPUT:
-### Training Loss, Validation Loss Vs Iteration Plot
-Include your plot here
-</br>
-</br>
-</br>
-### Classification Report
-Include Classification Report here
-</br>
-</br>
-</br>
-### Confusion Matrix
-Include confusion matrix here
-</br>
-</br>
-</br>
-## RESULT
-</br>
-</br>
-</br>
+### Training Loss, Validation Loss Vs Iteration Plot:
+
+
+### Classification Report:
+![image](https://user-images.githubusercontent.com/94164665/235583692-da99886a-47fa-48c9-899e-de098707527c.png)
+![image](https://user-images.githubusercontent.com/94164665/235583747-dae8314e-7951-49ef-956f-83da26aa4051.png)
+
+
+### Confusion Matrix:
+![image](https://user-images.githubusercontent.com/94164665/235583808-ce4b968b-95d4-4c04-a147-3e84e340b2ac.png)
+
+## RESULT:
+Thus, transfer Learning for CIFAR-10 dataset classification using VGG-19 architecture is successfully implemented.
