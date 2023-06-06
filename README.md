@@ -1,4 +1,4 @@
-# Implementation-of-Transfer-Learning
+# EX04--Implementation-of-Transfer-Learning
 ## Aim:
 To Implement Transfer Learning for CIFAR-10 dataset classification using VGG-19 architecture.
 ## Problem Statement and Dataset:
